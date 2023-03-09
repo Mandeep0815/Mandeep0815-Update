@@ -21,7 +21,9 @@ import java.sql.Statement;
  *
  */
 public class UpdateARecord {
-
+   public static void main(String[] args) {
+    
+   }
     /**
      *  site_user table:
      *  |   id  |     firstname        |        lastname        |
